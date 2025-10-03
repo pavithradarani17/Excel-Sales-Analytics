@@ -16,22 +16,22 @@ This project presents two analytical reports built to evaluate **customer perfor
 ##  Key Insights
 ### Customer Performance
 - Tracks **Net Sales (2019–2021)** for major customers.  
-- Identifies high-growth customers (e.g., Chiptec: **+722%**, Integration Stores: **+887%**):contentReference[oaicite:0]{index=0}.  
+- Identifies high-growth customers (e.g., Chiptec: **+722%**, Integration Stores: **+887%**)  
 - Provides overall customer performance trends with percentage growth between 2020 and 2021.  
 
 ### Market Performance vs Target
 - Compares **actual sales vs target sales** across markets.  
-- Highlights underperforming regions (e.g., India: **–9.6M below target**, USA: **–10.2M below target**):contentReference[oaicite:1]{index=1}.  
+- Highlights underperforming regions (e.g., India: **–9.6M below target**, USA: **–10.2M below target**)
 - Shows global totals:  
   - 2019 Sales: **883M**  
   - 2020 Sales: **87.5M**  
   - 2021 Sales: **196.7M**  
   - 2021 Target: **653.8M**  
-  - 2021 Actual: **598.9M** (fell short by **–54.9M**):contentReference[oaicite:2]{index=2}  
+  - 2021 Actual: **598.9M** (fell short by **–54.9M**) 
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 - **Excel / Power BI** for data analysis and visualization  
 - **SQL** (for data querying and preparation)  
 - **Data Cleaning & Transformation**  
@@ -46,7 +46,7 @@ This project presents two analytical reports built to evaluate **customer perfor
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 - Automate data extraction using **Python (Pandas, SQLAlchemy)**.  
 - Build interactive dashboards in **Power BI / Tableau**.  
 - Add predictive analytics models for **forecasting sales vs targets**.  
@@ -55,6 +55,6 @@ This project presents two analytical reports built to evaluate **customer perfor
 
 ## Author
 **Pavithra Daranibabu, MSc Applied Computer Science**  
-- 💼 Data Analyst | Business Intelligence Enthusiast  
-- 🔗 [LinkedIn] https://www.linkedin.com/in/pavithra-d-a77781188/  
+- Data Analyst | Business Intelligence Enthusiast  
+- [LinkedIn] https://www.linkedin.com/in/pavithra-d-a77781188/  
 ```
